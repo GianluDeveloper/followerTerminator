@@ -1,0 +1,2 @@
+# followerTerminator
+FollowMe ? FollowYou : UnfollowYou
